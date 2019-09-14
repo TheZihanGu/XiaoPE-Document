@@ -4,6 +4,6 @@
 本文档采用知识共享署名-相同方式共享 3.0 未本地化版本许可协议进行许可。
 ## 参与到文档的编辑
 目前该文档正在完善中，你也可以加入到文档的编写中。    
-你可以前往[GitHub项目主页](https://github.com/XiaoPE-team/XiaoPE-Document)或者在你感兴趣的文档中选择编辑本页来帮助编辑。
+你可以前往[GitHub项目主页](https://github.com/xiaope-team/XiaoPE-Document/)或者在你感兴趣的文档中选择编辑本页来帮助编辑。
 ### 赞助
 <img src="https://tzg6.app/images/2019/04/25/0njt6wYOyt/tzg.jpg" width = 30% height = 30% />

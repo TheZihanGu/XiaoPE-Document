@@ -1,5 +1,30 @@
 {
-    "title": "XiaoPE 文档",
-    "description": "XiaoPE 文档",
-    "language": "zh"
+    "title": "XiaoPE文档",
+    "description": "为XiaoPE用户提供的使用教程",
+    "language": "zh-hans",
+    "links": {
+        "sidebar" : {
+            "官网" : "https://xiaope.net",
+            "交流群": "https://shang.qq.com/wpa/qunwpa?idkey=fddc98c299c6694dae99db47c9abaee09cfc83cf0dbf8ff075bbbaddc2c20d2c"
+        }
+    },
+    "plugins": [
+        "edit-link",
+        "splitter",
+        "back-to-top-button",
+        "chapter-fold",
+        "insert-logo",
+        "custom-favicon"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+          "base": "https://github.com/xiaope-team/XiaoPE-Document/blob/master/",
+          "label": "编辑本页"
+        },
+        "insert-logo": {
+            "url": "images/logo.png",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+          },
+        "favicon": "images/logo.ico"
+    }
 }
