@@ -1,5 +1,6 @@
 # Summary
 
-* [HOME](README.md)
-* [写入 XiaoPE](xieru/README.md)
-* [将XiaoPE安装到隐藏分区](yincangfenqu/README.md)
+* [主页](README.md)
+* [下载](download/README.md)
+    * [写入 XiaoPE](download/writetoudisk.md)
+    * [将 XiaoPE写入隐藏分区](download/yincangfenqu.md)
